@@ -50,3 +50,13 @@ EnvironmentalTemperatureAnalysis
         ├── Main.java
         ├── TemperatureRecord.java
         └── TemperatureAnalyzer.java
+## Purpose
+
+This project demonstrates how programming and basic data analysis can be applied to environmental temperature monitoring.
+
+## Author
+
+**Md. Yasin**
+
+Bachelor's Degree Programme in Environmental Science and Civil Protection  
+Università Politecnica delle Marche, Italy
