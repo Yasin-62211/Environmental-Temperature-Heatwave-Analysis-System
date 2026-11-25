@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./444.png" 
+       alt="Environmental Temperature & Heatwave Analysis System"
+       width="100%">
+</p>
+
 # Environmental Temperature & Heatwave Analysis System
 
 ## About the Project
